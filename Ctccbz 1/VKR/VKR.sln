@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VKR", "VKR\VKR.csproj", "{F590982B-2E43-461D-BC48-BDD9639F65BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvButton", "..\..\..\..\Downloads\RoundButton_csharp_src\AdvButton\AdvButton\AdvButton.csproj", "{FF4681A6-2E47-461A-99EE-A5CEF01E5170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F590982B-2E43-461D-BC48-BDD9639F65BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F590982B-2E43-461D-BC48-BDD9639F65BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F590982B-2E43-461D-BC48-BDD9639F65BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F590982B-2E43-461D-BC48-BDD9639F65BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF4681A6-2E47-461A-99EE-A5CEF01E5170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF4681A6-2E47-461A-99EE-A5CEF01E5170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF4681A6-2E47-461A-99EE-A5CEF01E5170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF4681A6-2E47-461A-99EE-A5CEF01E5170}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7633194-40D9-4376-A9D8-118DB6F5D0B6}
+	EndGlobalSection
+EndGlobal
